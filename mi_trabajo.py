@@ -1,1 +1,1 @@
-print("He terminado mi trabaja")
+print("He terminado mi trabajo")
